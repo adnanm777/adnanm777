@@ -1,13 +1,9 @@
-Here’s an updated version of your portfolio with relevant logos and a streak tracker for GitHub:
-
----
-
 # 👋 Hi, I'm Mohammad Adnan!  
 ### *SDET | QA Engineer | Automation Testing Enthusiast*
 
 I am an accomplished *Software Development Engineer in Test (SDET)* with a solid foundation in automation and manual testing. With expertise in creating test scenarios, identifying bugs, and leveraging AI-driven tools, I am committed to ensuring software quality and delivering seamless user experiences. My adaptability to emerging technologies and strong problem-solving skills make me a valuable contributor in any testing environment.
 
----
+
 
 ## 🛠 *Technical Skills*
 
@@ -40,13 +36,13 @@ I am an accomplished *Software Development Engineer in Test (SDET)* with a solid
 - Conducted extensive manual testing to ensure complete functional coverage.  
 - Worked closely with developers to address and resolve identified issues.  
 
----
+
 
 ## 🎓 *Education*  
 - **Software Development Engineer in Test** - *Masai School* (July 2024 - January 2025)  
 - **Bachelor of Science** - *Sant Gadge Baba Amravati University, Maharashtra* (July 2019 - July 2024)  
 
----
+
 
 ## 🏆 *Professional Summary*  
 - Proficient in **automation frameworks** like *Selenium* and *Cypress*.  
@@ -55,38 +51,30 @@ I am an accomplished *Software Development Engineer in Test (SDET)* with a solid
 - Skilled in leveraging **Generative AI** for enhancing testing efficiency.  
 - Known for adaptability, problem-solving, and effective collaboration in dynamic team environments.  
 
----
+
 
 ## 📊 *GitHub Insights*  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanm777&show_icons=true&theme=dark" alt="Adnan's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanm777&theme=dark" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanm777&show_icons=true&theme=radical" alt="Adnan's GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanm777&theme=radical" alt="GitHub Streak" width="45%">
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanm777&layout=compact&theme=dark" alt="Top Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanm777&layout=compact&theme=radical" alt="Top Languages" width="60%">
 </div>  
 
----
+
 
 ## 🌱 *Interests*  
 - Watching documentaries 📽  
 - Reading books 📚  
 - Solving problems 🔍  
 
----
 
 ## 🤝 *Connect with Me*  
 - **Email**: [adnanmasaischool@gmail.com](mailto:adnanmasaischool@gmail.com)  
 - **GitHub**: [adnanm777](https://github.com/adnanm777)  
 - **LinkedIn**: [Mohammad Adnan](https://www.linkedin.com/feed/)  
 
----
-
-This version includes logos for your skills and tools, along with dynamic GitHub stats and streak visuals for better engagement. Let me know if you'd like to tweak anything!
-
-
-
-
-
+  
