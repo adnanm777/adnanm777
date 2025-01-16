@@ -1,3 +1,7 @@
+Here’s an updated version of your portfolio with relevant logos and a streak tracker for GitHub:
+
+---
+
 # 👋 Hi, I'm Mohammad Adnan!  
 ### *SDET | QA Engineer | Automation Testing Enthusiast*
 
@@ -8,18 +12,18 @@ I am an accomplished *Software Development Engineer in Test (SDET)* with a solid
 ## 🛠 *Technical Skills*
 
 ### 💻 Programming Languages  
-- **JavaScript**  
-- **Java**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### 🧪 Testing Tools & Frameworks  
-- **Selenium**  
-- **Cypress**  
-- **TestNG**  
-- **Postman**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ### 🛠 Additional Skills  
-- **Manual Testing**  
-- **API Testing**
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-007ACC?style=for-the-badge&logo=testing-library&logoColor=white)  
+![API Testing](https://img.shields.io/badge/API_Testing-232F3E?style=for-the-badge&logo=api&logoColor=white)  
 
 ---
 
@@ -53,6 +57,19 @@ I am an accomplished *Software Development Engineer in Test (SDET)* with a solid
 
 ---
 
+## 📊 *GitHub Insights*  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanm777&show_icons=true&theme=dark" alt="Adnan's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanm777&theme=dark" alt="GitHub Streak" width="48%">
+</div>  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanm777&layout=compact&theme=dark" alt="Top Languages" width="50%">
+</div>  
+
+---
+
 ## 🌱 *Interests*  
 - Watching documentaries 📽  
 - Reading books 📚  
@@ -64,6 +81,10 @@ I am an accomplished *Software Development Engineer in Test (SDET)* with a solid
 - **Email**: [adnanmasaischool@gmail.com](mailto:adnanmasaischool@gmail.com)  
 - **GitHub**: [adnanm777](https://github.com/adnanm777)  
 - **LinkedIn**: [Mohammad Adnan](https://www.linkedin.com/feed/)  
+
+---
+
+This version includes logos for your skills and tools, along with dynamic GitHub stats and streak visuals for better engagement. Let me know if you'd like to tweak anything!
 
 
 
