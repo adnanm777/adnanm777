@@ -1,82 +1,71 @@
-# Mohammad Adnan - SDET/QA
+# 👋 Hi, I'm Mohammad Adnan!  
+### *SDET | QA Engineer | Automation Testing Enthusiast*
 
-![Profile](https://img.shields.io/badge/Role-SDET/QA-blue?style=for-the-badge) 🚀
-
----
-
-### 📫 Contact Me
-
-- 📧 **Email**: [adnanmasaischool@gmail.com](mailto:adnanmasaischool@gmail.com)  
-- 📞 **Phone**: +91 8793182354  
-- 📍 **Location**: Akola, Maharashtra, India  
-- 💻 **GitHub**: [![GitHub](https://img.shields.io/badge/-adnanm777-black?style=flat-square&logo=github)](https://github.com/adnanm777)  
-- 🌐 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/feed/)
+I am an accomplished *Software Development Engineer in Test (SDET)* with a solid foundation in automation and manual testing. With expertise in creating test scenarios, identifying bugs, and leveraging AI-driven tools, I am committed to ensuring software quality and delivering seamless user experiences. My adaptability to emerging technologies and strong problem-solving skills make me a valuable contributor in any testing environment.
 
 ---
 
-## 🏫 Education
+## 🛠 *Technical Skills*
 
-- 🎓 **Software Development Engineer in Test**  
-  🏫 **Masai School**  
-  📅 *(July 2024 - January 2025)*
+### 💻 Programming Languages  
+- **JavaScript**  
+- **Java**
 
-- 🎓 **Bachelor of Science**  
-  🏫 **Sant Gadge Baba Amravati University, Maharashtra**  
-  📅 *(July 2019 - July 2024)*
+### 🧪 Testing Tools & Frameworks  
+- **Selenium**  
+- **Cypress**  
+- **TestNG**  
+- **Postman**  
 
----
-
-## 🛠️ Technical Skills
-
-| 🛠️ **Technology** | 🏷️ **Badge** |
-|--------------------|--------------|
-| 💻 **Selenium**    | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
-| 🌐 **JavaScript**  | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| ☕ **Java**        | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
-| 🧪 **TestNG**      | ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat-square&logo=testng&logoColor=white) |
-| 🛠️ **Postman**    | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| ⚙️ **Cypress**     | ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) |
+### 🛠 Additional Skills  
+- **Manual Testing**  
+- **API Testing**
 
 ---
 
-## 👨‍💻 Professional Summary
+## 📂 Projects  
 
-🚀 Accomplished Software Development Engineer in Test with:
-- 🔢 Medium-level Python proficiency.
-- 🧩 Expertise in algorithmic testing, test scenario design, and issue documentation.
+### 1. **[Sweet Donut Testing - Cypress](https://github.com/adnanm777/My-Cypress-Project.git)**  
+- Designed and executed end-to-end test scenarios for feature validation, including user registration and login.  
+- Ensured functional correctness and UI/UX efficiency through comprehensive test cases.  
+- Collaborated with the development team to resolve bugs and enhance functionality.  
+- Documented issues and reproduction steps for streamlined troubleshooting.  
 
-✨ Renowned for sharp problem-solving skills, adaptability to emerging technologies, and effective utilization of Generative AI in dynamic team environments.
-
----
-
-## 📂 Projects
-
-### 🌟 **Sweet Donut Testing Using Cypress**
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-- 🛠️ Implemented end-to-end test scenarios ensuring functional correctness and UI/UX efficiency.
-- 🤝 Collaborated with developers to address issues identified during testing.
-- 📝 Documented reproduction steps, improving team collaboration.
-- **🔗 Live Demo**: [Sweet Donut](https://sweet-donut-1ca8e9.netlify.app/index.html)  
-- **📂 Source Code**: [GitHub](https://github.com/adnanm777/My-Cypress-Project.git)
-
-### 🌟 **AdvancedMD Web Application Manual Testing Project**
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-blue?style=flat-square)
-- 🛠️ Developed comprehensive test plans and strategies aligned with project objectives.
-- ✅ Executed detailed test cases to ensure application functionality.
-- 🤝 Collaborated closely with developers to resolve issues promptly.
-- **📂 Source Code**: [GitHub](https://github.com/adnanm777/Manula-testing-Project.git)
+### 2. **[AdvancedMD Web Application - Manual Testing](https://github.com/adnanm777/Manula-testing-Project.git)**  
+- Developed detailed test plans and strategies tailored to the project's scope.  
+- Conducted extensive manual testing to ensure complete functional coverage.  
+- Worked closely with developers to address and resolve identified issues.  
 
 ---
 
-## 📚 Interests
-
-- 🎥 Watching documentaries  
-- 📖 Reading books  
-- 🧩 Solving complex problems  
+## 🎓 *Education*  
+- **Software Development Engineer in Test** - *Masai School* (July 2024 - January 2025)  
+- **Bachelor of Science** - *Sant Gadge Baba Amravati University, Maharashtra* (July 2019 - July 2024)  
 
 ---
 
-> ⭐ **Tip**: Check out my GitHub repositories for more projects and contributions. Let's connect and build something amazing! 🌟
+## 🏆 *Professional Summary*  
+- Proficient in **automation frameworks** like *Selenium* and *Cypress*.  
+- Experienced in **manual testing**, including creating test scenarios, exploratory testing, and issue documentation.  
+- Adept at **API testing** using tools like *Postman*.  
+- Skilled in leveraging **Generative AI** for enhancing testing efficiency.  
+- Known for adaptability, problem-solving, and effective collaboration in dynamic team environments.  
+
+---
+
+## 🌱 *Interests*  
+- Watching documentaries 📽  
+- Reading books 📚  
+- Solving problems 🔍  
+
+---
+
+## 🤝 *Connect with Me*  
+- **Email**: [adnanmasaischool@gmail.com](mailto:adnanmasaischool@gmail.com)  
+- **GitHub**: [adnanm777](https://github.com/adnanm777)  
+- **LinkedIn**: [Mohammad Adnan](https://www.linkedin.com/feed/)  
+
+
 
 
 
